@@ -26,7 +26,7 @@ function About() {
               About Me
             </h1>
             <img
-              src="/files/potfolioPic.jpg"
+              src="files/potfolioPic.jpg"
               className="w-28 h-28 rounded-full"
             />
           </div>

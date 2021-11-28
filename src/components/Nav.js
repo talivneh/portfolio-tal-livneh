@@ -6,15 +6,13 @@ export default function Nav() {
   return (
     <div className="flex justify-end items-center w-screen h-screen z-10 fixed">
       <div className="cell table-cell">
-        <ul className="dots space-y-6 mr-3">
+        <ul className="dots space-y-6 mr-5">
           {sections.map((section, index) => (
             <li
               id={index}
-              //   onClick={(e) => {
-              //     sectionR = { section };
-              //     console.log(sectionRef.cu);
-              //     // e.target.ref.scrollIntoView();
-              //   }}
+              onClick={(e) => {
+                e.target.addClass("active");
+              }}
             >
               <a
                 href={`#${section}`}

@@ -24,7 +24,7 @@ export default function Top() {
         >
           {windowSize > 1340 ? (
             <video
-              src="/files/HeroVideo.mp4"
+              src="files/HeroVideo.mp4"
               autoPlay
               muted
               loop
@@ -32,7 +32,7 @@ export default function Top() {
             />
           ) : (
             <img
-              src="/files/smallScreenImg.jpg"
+              src="files/smallScreenImg.jpg"
               className="-z-1 fixed w-full min-h-screen"
             />
           )}
