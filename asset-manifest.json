@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-tal-livneh/static/css/main.30ac3137.chunk.css",
-    "main.js": "/portfolio-tal-livneh/static/js/main.c4bcdda1.chunk.js",
-    "main.js.map": "/portfolio-tal-livneh/static/js/main.c4bcdda1.chunk.js.map",
+    "main.css": "/portfolio-tal-livneh/static/css/main.dcb2ae55.chunk.css",
+    "main.js": "/portfolio-tal-livneh/static/js/main.b595896f.chunk.js",
+    "main.js.map": "/portfolio-tal-livneh/static/js/main.b595896f.chunk.js.map",
     "runtime-main.js": "/portfolio-tal-livneh/static/js/runtime-main.40aad3f1.js",
     "runtime-main.js.map": "/portfolio-tal-livneh/static/js/runtime-main.40aad3f1.js.map",
-    "static/css/2.c3133ef5.chunk.css": "/portfolio-tal-livneh/static/css/2.c3133ef5.chunk.css",
+    "static/css/2.dd6ed28f.chunk.css": "/portfolio-tal-livneh/static/css/2.dd6ed28f.chunk.css",
     "static/js/2.a7909b25.chunk.js": "/portfolio-tal-livneh/static/js/2.a7909b25.chunk.js",
     "static/js/2.a7909b25.chunk.js.map": "/portfolio-tal-livneh/static/js/2.a7909b25.chunk.js.map",
     "index.html": "/portfolio-tal-livneh/index.html",
-    "static/css/2.c3133ef5.chunk.css.map": "/portfolio-tal-livneh/static/css/2.c3133ef5.chunk.css.map",
-    "static/css/main.30ac3137.chunk.css.map": "/portfolio-tal-livneh/static/css/main.30ac3137.chunk.css.map",
+    "static/css/2.dd6ed28f.chunk.css.map": "/portfolio-tal-livneh/static/css/2.dd6ed28f.chunk.css.map",
+    "static/css/main.dcb2ae55.chunk.css.map": "/portfolio-tal-livneh/static/css/main.dcb2ae55.chunk.css.map",
     "static/js/2.a7909b25.chunk.js.LICENSE.txt": "/portfolio-tal-livneh/static/js/2.a7909b25.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.40aad3f1.js",
-    "static/css/2.c3133ef5.chunk.css",
+    "static/css/2.dd6ed28f.chunk.css",
     "static/js/2.a7909b25.chunk.js",
-    "static/css/main.30ac3137.chunk.css",
-    "static/js/main.c4bcdda1.chunk.js"
+    "static/css/main.dcb2ae55.chunk.css",
+    "static/js/main.b595896f.chunk.js"
   ]
 }
