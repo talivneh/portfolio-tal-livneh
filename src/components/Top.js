@@ -18,9 +18,7 @@ export default function Top() {
       content={
         <div
           id="Top"
-          className={`flex flex-col h-screen ${
-            windowSize < 1341 && "justify-center items-center"
-          }`}
+          className="flex flex-col h-screen justify-center items-center"
         >
           {windowSize > 1340 ? (
             <video
@@ -37,8 +35,8 @@ export default function Top() {
             />
           )}
           <div
-            className={`text-misty fixed ${
-              windowSize > 1340 ? "mt-80 ml-80 pl-28" : "w-10/12 h-64"
+            className={`text-misty fixed h-64 w-2/6 ${
+              windowSize > 1340 && "mt-24"
             }`}
           >
             <Typing />
