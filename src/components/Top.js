@@ -35,8 +35,8 @@ export default function Top() {
             />
           )}
           <div
-            className={`text-misty fixed h-64 w-3/5 ${
-              windowSize > 1340 && "mt-24"
+            className={`text-misty fixed h-64 w-2/6 ${
+              windowSize > 1340 && "mt-24 ml-20"
             }`}
           >
             <Typing />
