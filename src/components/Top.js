@@ -35,8 +35,8 @@ export default function Top() {
             />
           )}
           <div
-            className={`text-misty fixed h-64 w-2/6 ${
-              windowSize > 1340 && "mt-24 ml-20"
+            className={`text-misty fixed h-64 w-full flex flex-col items-center ${
+              windowSize > 1340 && "mt-24"
             }`}
           >
             <Typing />
