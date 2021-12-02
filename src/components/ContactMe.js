@@ -24,7 +24,7 @@ export default function ContactMe() {
           <section className="ContactMeSection text-lg">
             <span className="flex flex-col">
               <span data-aos="fade-up">
-                <i className="fas fa-phone-square-alt"></i> Phon:{" "}
+                <i className="fas fa-phone-square-alt"></i> Phone:{" "}
                 <a href="tel: +972-0544680050"> 0544680050</a>
               </span>
               <span data-aos="fade-up">
