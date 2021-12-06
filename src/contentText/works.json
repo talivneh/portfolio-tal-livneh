@@ -1,24 +1,38 @@
 [
   {
-    "headLine": "Instagram Clone",
-    "image": "files/worksImg/instaClone.JPG",
-    "description": "Login, Post, Like And Comment",
+    "headLine": "Spotify Clone",
+    "image": "files/worksImg/spotifyClone.JPG",
+    "description": "Login, Choose Playlist, Play, Adjast Volume",
     "tags": [
-      "React.JS",
+      "Spotify Api",
       "Next.js",
       "Tailwind.CSS",
       "NextAuth",
       "Recoil",
-      "Firebase"
+      "Middlewere"
     ],
+    "src": "https://spotify-clone-talivneh.vercel.app/"
+  },
+  {
+    "headLine": "Instagram Clone",
+    "image": "files/worksImg/instaClone.JPG",
+    "description": "Login, Post, Like And Comment",
+    "tags": ["Next.js", "Tailwind.CSS", "NextAuth", "Recoil", "Firebase"],
     "src": "https://insta-clone-talivneh.vercel.app/"
   },
   {
     "headLine": "AirBnb Clone",
     "image": "files/worksImg/airBnbClone.JPG",
     "description": "Search, Pick Dates, View on map",
-    "tags": ["React.JS", "Next.js", "Tailwind.CSS"],
+    "tags": ["Next.js", "Tailwind.CSS", "MapBox", "Calendar Picker"],
     "src": "https://airbnb-clone-talivneh.vercel.app/"
+  },
+  {
+    "headLine": "Netflix Clone",
+    "description": "Navigate, Watch Trailers",
+    "image": "files/worksImg/netflixClone.JPG",
+    "tags": ["RESTful Api", "React.JS", "Axios"],
+    "src": "https://netflix-clone-8418d.web.app/"
   },
   {
     "headLine": "Vehicle Locater",
@@ -26,20 +40,6 @@
     "image": "files/worksImg/VhiclesLocator.JPG",
     "tags": ["React.JS", "Node.JS", "Tailwind.CSS"],
     "src": "https://vehicle-locator-by-tal-livneh.netlify.app/"
-  },
-  {
-    "headLine": "Netflix Clone",
-    "description": "Navigate, Watch Trailers",
-    "image": "files/worksImg/netflixClone.JPG",
-    "tags": ["React.JS"],
-    "src": "https://netflix-clone-8418d.web.app/"
-  },
-  {
-    "headLine": "Budjet Calculator",
-    "description": "Add, Edit And Remove",
-    "image": "files/worksImg/budjetCalculator.JPG",
-    "tags": ["React.JS"],
-    "src": "https://talivneh.github.io/budjetCalculator/"
   },
   {
     "headLine": "Random Table App",
