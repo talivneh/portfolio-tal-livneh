@@ -9,7 +9,7 @@
       "Tailwind.CSS",
       "NextAuth",
       "Recoil",
-      "Middlewere"
+      "Middleware"
     ],
     "src": "https://spotify-clone-talivneh.vercel.app/"
   },
