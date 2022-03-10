@@ -6,8 +6,8 @@ import "aos/dist/aos.css";
 import { aboutMe } from "../contentText/content";
 
 function About() {
-  const topSkills = ["JavaScript", "HTML", "CSS", "React.JS", "Next.JS"];
-  const experiencedSkills = ["Node.JS", "jQuery", "C#"];
+  const topSkills = ["JavaScript", "TypeScript", "React.JS", "HTML", "CSS"];
+  const experiencedSkills = ["Node.JS", "jQuery"];
 
   useEffect(() => {
     Aos.init({ duration: 1500 });
