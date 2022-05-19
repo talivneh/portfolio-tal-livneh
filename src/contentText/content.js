@@ -5,5 +5,5 @@ since!`,
   `I planned, designed and developed major and minor web
 projects, using variety of programming languages.`,
   `These days I'm developing new projects and learning new skills
-every day, while Working as a Junior web developer at "RotemX LTD".`,
+every day`,
 ];
